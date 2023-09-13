@@ -1,0 +1,6 @@
+[submodule "swnest"]
+	path = swnest
+	url = https://github.com/eltosilva/swnest.git
+[submodule "swreact"]
+	path = swreact
+	url = https://github.com/eltosilva/swreact.git
